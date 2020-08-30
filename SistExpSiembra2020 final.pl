@@ -23,11 +23,11 @@ a poner en el fondo de cada  hoyo ceniza  con cal, y finalmente se coloca cada u
 % ------------------------- Proceso de Instalacion de las Tomas de Agua para el Mecanismo de Riego de las Plantas Frutales:
 Se inicia , cavando con barreta un canal por donde va a ir la manguera
 de 2 pulgadas que llegara a conectar con el respectivo reservorio de
-agua (este esta� fuera del lote de terreno); dicha manguera llegara a
+agua (este esta¡ fuera del lote de terreno); dicha manguera llegara a
 conectar en el otro extremo con la primera caja de toma de agua, de la
 cual con una conexion de manguera de misma dimensin de 2 pulgadas
 llegara a una segunda toma de agua y por otro camino ocupando la
-distribucion del lote se podrá conectar a otra toma de agua (de mayor
+distribucion del lote se podrÃ¡ conectar a otra toma de agua (de mayor
 capacidad de amacenamiento de agua). Cada una de las tomas de agua
 tendra una respectiva llave de paso que se abrira al momento de hacer la
 jornada de riego posterior a estar sembradas todas las plantas frutales.
@@ -36,7 +36,7 @@ jornada de riego posterior a estar sembradas todas las plantas frutales.
 % ------------------------- Proceso de Crecimiento de las Plantas Frutales:
 Para el deasarollo de las plantas frutales, se hacen tres tipos de podas: poda de coronacion que consiste en limpiar el contorno de la base de la planta; poda de crecimiento donde se aplica cortes a los tallos
 dela planta utilizando un cortador y un mertiolate o alcohol; y poda de coronacion donde la planta no se la debe dejar agobiar por exceso de frutos para que desarrolle normalmente. Adicional a todo este proceso
-decrecimiento de las plantas frutales se les fumigara con ciertos químicos para que no se malogren las mismas cada cierto tiempo hasta que la planta se derrolle completamente.
+decrecimiento de las plantas frutales se les fumigara con ciertos quÃ­micos para que no se malogren las mismas cada cierto tiempo hasta que la planta se derrolle completamente.
 
 
 %  ------------------------- Proceso de Abonacion del Terreno:
@@ -49,23 +49,23 @@ De acuerdo al tipo de planta se le regara cada semana lo que son: naranja, limon
 la cantidad de agua asignada es diferente para cada planta frutal.
 
 % INFORMACION RECOLECTADA DEL EXPERTO
-Expertos agricultores: Nelson Eduardo Briceño Vega   // Telf: 3025514 - 0997599136
+Expertos agricultores: Nelson Eduardo BriceÃ±o Vega   // Telf: 3025514 - 0997599136
                        Felipe de Jesus Mendieta      // Telf: 0986100801
 
 TIPOS DE PLANTAS:
-A�rbol:   naranja, aguacate
+Arbol:   naranja, aguacate
 Arbusto: geraneo
 Hierba:  arveja, frejol
 
 Tiempo de Desarrollo_Arboles:
                               - naranja criolla: 6 anios para que produzca; riego: 10 dias o 15-18 dias, lo ideal es c/8 dias.
-                              - naranja mejorada: 2� anios para que produzca;  riego: 10 dias o 15-18 dias, lo ideal es c/8 dias.
+                              - naranja mejorada: 2½ anios para que produzca;  riego: 10 dias o 15-18 dias, lo ideal es c/8 dias.
                               - limon: 3 anios para que produzca;  riego: c/3 dias si el terreno es seco; en la parte humeda casi no es necesario regrlo, sino limpiarlo.
                               - lima: 3 anios para que produzca;  riego: c/3 das si el terreno es seco; en la parte humeda casi no es necesario regarlo, sino limpiarlo.
                               - madarina criolla: 6-7 anios para que produzca;  riego: c/3 dias si el terreno es seco, dependiendo si esta cerca de una sequia (canal de riego) no es muy necesario.
-                              - madarina mejorada: 3-4 anios para que produzca;  riego: c/3 dias si el terreno es seco, dependiendo si est� cerca de una sequía (canal de riego) no es muy necesario.
+                              - madarina mejorada: 3-4 anios para que produzca;  riego: c/3 dias si el terreno es seco, dependiendo si est¡ cerca de una sequÃ­a (canal de riego) no es muy necesario.
                               - toronja: 5 anios para que produzca;  riego: c/3 o 4 dias si el terreno es seco, dependiendo si esta cerca de una sequia (canal de riego) no es muy necesario.
-                              - maracuya: 1� anios para que produzca;  riego: 2 veces por semana si el terreno es seco; siempre sembrado en terreno seco.
+                              - maracuya: 1½ anios para que produzca;  riego: 2 veces por semana si el terreno es seco; siempre sembrado en terreno seco.
                               - ciruel: 2 anios para que produzca;  riego: 1 vez al mes, planta muy dura y fuerte.
                               - chirimoya: 8 anios para que produzca;  riego: 1-2 veces al mes, dependiendo del tiempo si es invierno o verano; Tiempo de invierno: enero-mayo.
                               - mango criollo: 3-4 anios para que produzca;  riego: 2 veces por mes si el terreno es seco y en terreno humedo no es necesario.
@@ -93,8 +93,8 @@ Tiempo de Desarrollo_Arbustos:
                               - escancel: 2 meses para que produzca; riego: 2-3 veces por semana.
                               - oreganoPequeno: 5 meses para que produzca; riego: 3 veces por semana.
                               - oreganoGrande: 2 meses para que produzca; riego: 3 veces por semana.
-                              - culantro: 1� mes para que produzca; riego: 3-4 veces por semana.
-                              - perejil: 1� mes para que produzca; riego: 3-4 veces por semana.
+                              - culantro: 1½ mes para que produzca; riego: 3-4 veces por semana.
+                              - perejil: 1½ mes para que produzca; riego: 3-4 veces por semana.
                               - cedron: 3-5 meses en terreno humedo para que produzca; 5-7 meses en terreno seco; riego: c/3 dias u 8-10 dias.
                               - hierbaBuena: 4 meses en terreno humedo para que produzca; 6 meses en terreno seco; riego: c/3 dias u 8-10 dias.
                               - malbatea: 4 meses en terreno humedo para que produzca; 5-6 meses en terreno seco; riego: c/3 dias u 8-10 dias.
@@ -103,7 +103,7 @@ Tiempo de Desarrollo_Arbustos:
 Tiempo de Desarrollo_Hierbas:
                               - arveja: 3 meses para que produzca; riego: c/4 dias.
                               - frejol: 2 meses para que produzca; riego: c/4 dias.
-                              - haba: 2� meses para que produzca; riego: 1 vez por semana en terreno seco.
+                              - haba: 2½ meses para que produzca; riego: 1 vez por semana en terreno seco.
                               - vainita: 2 meses para que produzca; riego: 1 vez por semana en terreno seco y en tiempo de verano 2 veces por semana.
                               - sarandaja: 3 meses para que produzca; riego: 2 veces por semana en terreno seco.
                               - pimiento: 3 meses para que produzca; riego: 2 veces por semana en terreno seco. No se siembra en terreno humedo.
@@ -112,7 +112,7 @@ Tiempo de Desarrollo_Hierbas:
                               - ajo: 3 meses para que produzca; riego: 2 veces por semana en terreno seco y 1 vez por semana en terreno humedo.
                               - achiote: 2 anios para que produzca; riego: No necesita riego, no se seca, si se corta la planta vuelve a retonar.
                               - maiz colorado: 3 meses para que produzca; riego: 8-10 dias.
-                              - maiz hibrido: 2� meses para que produzca; riego: 8-10 dias.
+                              - maiz hibrido: 2½ meses para que produzca; riego: 8-10 dias.
                               - maiz trueno: 3 meses para que produzca; riego: 8-10 dias.
                               - zanahoria blanca: 7 meses para que produzca; riego: c/6 dias.
                               - zanahoria colorada: 3 meses para que produzca; riego: c/6 dias.
@@ -181,6 +181,7 @@ planta(arbol,rosaceae,albaricoque,24).                  % 24 meses
 planta(arbol,rosaceae,almendro,8).                      % 8 meses
 planta(arbol,rosaceae,cerezo,48).                       % 48 meses
 planta(arbol,rosaceae,ciruelo,24).                      % 24 meses
+planta(arbol,rutaceae,lima,36).                         % 36 meses
 planta(arbol,rutaceae,naranjaCriolla,72).               % 72 meses
 planta(arbol,rutaceae,naranjaMejorada,28).              % 28 meses
 planta(arbol,rutaceae,madarinaCriolla,84).              % 84 meses
@@ -285,7 +286,7 @@ planta(hierba,vitaceae,lechugaSilvestre,2).                  % 2 meses
 planta(hierba,zingiberaceae,jengibre,10).                    % 10 meses
 planta(hierba,zingiberaceae,kaempferiaRotunda,1).            % 1 mes
 
-% TerrenoSeco, terrenoHumedo y Riego:
+% TerrenoSeco, TerrenoHumedo y Riego:
 %% Arboles
 cuidado1(naranjaCriolla,1,1,8).
 cuidado1(naranjaMejorada,1,1,8).
@@ -445,10 +446,10 @@ terreno(X,Y,Z,R):-planta(_,_,X,_), cuidado1(X,Y,Z,R).
 abonoPoda(X,Y,Z):-planta(_,_,X,_), cuidado11(X,Y,Z).
 
 menuPrincipal:- salida,write("-----------Menu principal--------------"),nl,
-write("Seleccione una Opci�n"),nl,
+write("Seleccione una Opción"),nl,
 tab(5),write("1) Recomendador para la siembra de una planta"),nl,
 tab(5),write("2) Recomendador para el cuidado de una planta"),nl,
-write("Su opci�n es: "), read(X),
+write("Su opción es: "), read(X),
 opcion(X).
 
 opcion(X):-
@@ -518,7 +519,7 @@ evaluarTerreno(X,Y):-(
 
 
 evaluarCuidado(X,Y,X1,Y1):-
-    ( ( X < X1,Y < Y1)->
+    ( ( X<X1,Y<Y1,X>0,Y>0)->
        write('El cuidado de la planta es MEDIO, La planta necesita mas abono y mas podas'), write('Abono '),write(X1),write(' por mes, y el numero de podas es '),write(Y1);
     (X=X1,Y=Y1)->
        write('La planta tiene un EXCELENTE cuidado siga aplicando la misma docificacion de abono y las mismas podas');
